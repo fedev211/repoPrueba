@@ -1,0 +1,15 @@
+D:\repoPrueba\pruebaConsola\bin\Debug\net10.0\pruebaConsola.exe
+D:\repoPrueba\pruebaConsola\bin\Debug\net10.0\pruebaConsola.deps.json
+D:\repoPrueba\pruebaConsola\bin\Debug\net10.0\pruebaConsola.runtimeconfig.json
+D:\repoPrueba\pruebaConsola\bin\Debug\net10.0\pruebaConsola.dll
+D:\repoPrueba\pruebaConsola\bin\Debug\net10.0\pruebaConsola.pdb
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.AssemblyInfoInputs.cache
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.AssemblyInfo.cs
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.csproj.CoreCompileInputs.cache
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.sourcelink.json
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.dll
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\refint\pruebaConsola.dll
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.pdb
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\pruebaConsola.genruntimeconfig.cache
+D:\repoPrueba\pruebaConsola\obj\Debug\net10.0\ref\pruebaConsola.dll
